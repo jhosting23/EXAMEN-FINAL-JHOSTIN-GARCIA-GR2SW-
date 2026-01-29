@@ -305,3 +305,6 @@ GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
 GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
 GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
 GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+GOOD : Acceso concedido
